@@ -1,0 +1,6 @@
+{
+  "name": "Movie Night Outdoor Theater",
+  "description": "Premium outdoor movie screen rentals and custom cinematic event services in Missouri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
